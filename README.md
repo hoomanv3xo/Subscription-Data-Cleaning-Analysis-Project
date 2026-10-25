@@ -1,4 +1,4 @@
-# Subscription-Data-Cleaning-Analysis-Project
+# Subscription Data Cleaning Analysis Project
 ## Overview
 
 This project involved setting up a local MySQL database, importing nine raw CSV datasets related to a subscription business (customers, products, subscriptions, payments, cancellations, and frontend events), cleaning and standardizing the data, and preparing it for relational analysis.
